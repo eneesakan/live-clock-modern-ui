@@ -1,0 +1,12 @@
+* CLOCK UI
+
+clock__logo
+https://www.instagram.com/eneesakan/
+
+Months abbreviated in
+
+	English
+	'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
+
+	Turkish
+	'Ocak', 'Şubat', 'Mart', 'Nisan', 'Mayıs', 'Haziran', 'Temmuz', 'Ağustos', 'Eylül', 'Ekim', 'Kasım', 'Aralık'
